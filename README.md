@@ -1,7 +1,7 @@
 # Rust-Programming-Language-Journey-1-Month
 
 # 🦀 Rust Learning Plan: Month 1 (Days 1–30)
-- ✅ Week 1: Setup & Core Basics
+# ✅ Week 1: Setup & Core Basics
 - Day 1: Install Rust (rustup), VS Code + Rust Analyzer
 - Day 2: Your first "Hello, world!" program (cargo new)
 - Day 3: Variables: let, mut, constants, shadowing
